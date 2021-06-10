@@ -1,0 +1,16 @@
+C:\Users\Sony\source\repos\Assignment8\Assignment8\bin\Debug\net5.0\Assignment8.exe
+C:\Users\Sony\source\repos\Assignment8\Assignment8\bin\Debug\net5.0\Assignment8.deps.json
+C:\Users\Sony\source\repos\Assignment8\Assignment8\bin\Debug\net5.0\Assignment8.runtimeconfig.json
+C:\Users\Sony\source\repos\Assignment8\Assignment8\bin\Debug\net5.0\Assignment8.runtimeconfig.dev.json
+C:\Users\Sony\source\repos\Assignment8\Assignment8\bin\Debug\net5.0\Assignment8.dll
+C:\Users\Sony\source\repos\Assignment8\Assignment8\bin\Debug\net5.0\ref\Assignment8.dll
+C:\Users\Sony\source\repos\Assignment8\Assignment8\bin\Debug\net5.0\Assignment8.pdb
+C:\Users\Sony\source\repos\Assignment8\Assignment8\obj\Debug\net5.0\Assignment8.csproj.AssemblyReference.cache
+C:\Users\Sony\source\repos\Assignment8\Assignment8\obj\Debug\net5.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\source\repos\Assignment8\Assignment8\obj\Debug\net5.0\Assignment8.AssemblyInfoInputs.cache
+C:\Users\Sony\source\repos\Assignment8\Assignment8\obj\Debug\net5.0\Assignment8.AssemblyInfo.cs
+C:\Users\Sony\source\repos\Assignment8\Assignment8\obj\Debug\net5.0\Assignment8.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\Assignment8\Assignment8\obj\Debug\net5.0\Assignment8.dll
+C:\Users\Sony\source\repos\Assignment8\Assignment8\obj\Debug\net5.0\ref\Assignment8.dll
+C:\Users\Sony\source\repos\Assignment8\Assignment8\obj\Debug\net5.0\Assignment8.pdb
+C:\Users\Sony\source\repos\Assignment8\Assignment8\obj\Debug\net5.0\Assignment8.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Sony\source\repos\Assignment10\Assignment10\obj\Debug\net5.0\Assignment10.csproj.AssemblyReference.cache
+C:\Users\Sony\source\repos\Assignment10\Assignment10\obj\Debug\net5.0\Assignment10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\source\repos\Assignment10\Assignment10\obj\Debug\net5.0\Assignment10.AssemblyInfoInputs.cache
+C:\Users\Sony\source\repos\Assignment10\Assignment10\obj\Debug\net5.0\Assignment10.AssemblyInfo.cs
+C:\Users\Sony\source\repos\Assignment10\Assignment10\obj\Debug\net5.0\Assignment10.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\Assignment10\Assignment10\bin\Debug\net5.0\Assignment10.exe
+C:\Users\Sony\source\repos\Assignment10\Assignment10\bin\Debug\net5.0\Assignment10.deps.json
+C:\Users\Sony\source\repos\Assignment10\Assignment10\bin\Debug\net5.0\Assignment10.runtimeconfig.json
+C:\Users\Sony\source\repos\Assignment10\Assignment10\bin\Debug\net5.0\Assignment10.runtimeconfig.dev.json
+C:\Users\Sony\source\repos\Assignment10\Assignment10\bin\Debug\net5.0\Assignment10.dll
+C:\Users\Sony\source\repos\Assignment10\Assignment10\bin\Debug\net5.0\ref\Assignment10.dll
+C:\Users\Sony\source\repos\Assignment10\Assignment10\bin\Debug\net5.0\Assignment10.pdb
+C:\Users\Sony\source\repos\Assignment10\Assignment10\obj\Debug\net5.0\Assignment10.dll
+C:\Users\Sony\source\repos\Assignment10\Assignment10\obj\Debug\net5.0\ref\Assignment10.dll
+C:\Users\Sony\source\repos\Assignment10\Assignment10\obj\Debug\net5.0\Assignment10.pdb
+C:\Users\Sony\source\repos\Assignment10\Assignment10\obj\Debug\net5.0\Assignment10.genruntimeconfig.cache
