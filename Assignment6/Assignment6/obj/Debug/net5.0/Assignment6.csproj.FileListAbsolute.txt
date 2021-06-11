@@ -1,0 +1,16 @@
+C:\Users\Sony\source\repos\Assignment6\Assignment6\bin\Debug\net5.0\Assignment6.exe
+C:\Users\Sony\source\repos\Assignment6\Assignment6\bin\Debug\net5.0\Assignment6.deps.json
+C:\Users\Sony\source\repos\Assignment6\Assignment6\bin\Debug\net5.0\Assignment6.runtimeconfig.json
+C:\Users\Sony\source\repos\Assignment6\Assignment6\bin\Debug\net5.0\Assignment6.runtimeconfig.dev.json
+C:\Users\Sony\source\repos\Assignment6\Assignment6\bin\Debug\net5.0\Assignment6.dll
+C:\Users\Sony\source\repos\Assignment6\Assignment6\bin\Debug\net5.0\ref\Assignment6.dll
+C:\Users\Sony\source\repos\Assignment6\Assignment6\bin\Debug\net5.0\Assignment6.pdb
+C:\Users\Sony\source\repos\Assignment6\Assignment6\obj\Debug\net5.0\Assignment6.csproj.AssemblyReference.cache
+C:\Users\Sony\source\repos\Assignment6\Assignment6\obj\Debug\net5.0\Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\source\repos\Assignment6\Assignment6\obj\Debug\net5.0\Assignment6.AssemblyInfoInputs.cache
+C:\Users\Sony\source\repos\Assignment6\Assignment6\obj\Debug\net5.0\Assignment6.AssemblyInfo.cs
+C:\Users\Sony\source\repos\Assignment6\Assignment6\obj\Debug\net5.0\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\Assignment6\Assignment6\obj\Debug\net5.0\Assignment6.dll
+C:\Users\Sony\source\repos\Assignment6\Assignment6\obj\Debug\net5.0\ref\Assignment6.dll
+C:\Users\Sony\source\repos\Assignment6\Assignment6\obj\Debug\net5.0\Assignment6.pdb
+C:\Users\Sony\source\repos\Assignment6\Assignment6\obj\Debug\net5.0\Assignment6.genruntimeconfig.cache
